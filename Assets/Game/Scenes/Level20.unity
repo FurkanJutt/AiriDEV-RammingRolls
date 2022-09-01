@@ -8647,7 +8647,7 @@ GameObject:
   - component: {fileID: 885614089}
   m_Layer: 0
   m_Name: Cube (1)
-  m_TagString: Untagged
+  m_TagString: NonDropableEnemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12145,7 +12145,7 @@ GameObject:
   - component: {fileID: 1391545566}
   m_Layer: 0
   m_Name: Cube
-  m_TagString: Untagged
+  m_TagString: NonDropableEnemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

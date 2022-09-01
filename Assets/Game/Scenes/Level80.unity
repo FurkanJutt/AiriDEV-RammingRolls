@@ -10415,7 +10415,7 @@ GameObject:
   - component: {fileID: 637319579}
   m_Layer: 0
   m_Name: Cube
-  m_TagString: Enemy
+  m_TagString: NonDropableEnemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12166,7 +12166,7 @@ GameObject:
   - component: {fileID: 745837412}
   m_Layer: 0
   m_Name: Cube (199)
-  m_TagString: Untagged
+  m_TagString: NonDropable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20250,7 +20250,7 @@ GameObject:
   - component: {fileID: 1233028481}
   m_Layer: 0
   m_Name: Cube (138)
-  m_TagString: Untagged
+  m_TagString: NonDropable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23214,7 +23214,7 @@ GameObject:
   - component: {fileID: 1382135784}
   m_Layer: 0
   m_Name: Cube (101)
-  m_TagString: Untagged
+  m_TagString: NonDropable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31465,7 +31465,7 @@ GameObject:
   - component: {fileID: 1795302321}
   m_Layer: 0
   m_Name: Cube (137)
-  m_TagString: Untagged
+  m_TagString: NonDropable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32035,7 +32035,7 @@ GameObject:
   - component: {fileID: 1806426761}
   m_Layer: 0
   m_Name: Cube (100)
-  m_TagString: Untagged
+  m_TagString: NonDropable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34315,7 +34315,7 @@ GameObject:
   - component: {fileID: 1950151512}
   m_Layer: 0
   m_Name: Cube (132)
-  m_TagString: Enemy
+  m_TagString: NonDropableEnemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35455,7 +35455,7 @@ GameObject:
   - component: {fileID: 2012371886}
   m_Layer: 0
   m_Name: Cube (133)
-  m_TagString: Enemy
+  m_TagString: NonDropableEnemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36709,7 +36709,7 @@ GameObject:
   - component: {fileID: 2115626631}
   m_Layer: 0
   m_Name: Cube (1)
-  m_TagString: Enemy
+  m_TagString: NonDropableEnemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

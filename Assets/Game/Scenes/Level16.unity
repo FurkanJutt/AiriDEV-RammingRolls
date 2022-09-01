@@ -3931,7 +3931,7 @@ GameObject:
   - component: {fileID: 146472471}
   m_Layer: 0
   m_Name: Cube (6)
-  m_TagString: Enemy
+  m_TagString: NonDropableEnemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17798,7 +17798,7 @@ GameObject:
   - component: {fileID: 612455094}
   m_Layer: 0
   m_Name: Cube (3)
-  m_TagString: Enemy
+  m_TagString: NonDropableEnemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25947,7 +25947,7 @@ GameObject:
   - component: {fileID: 909505749}
   m_Layer: 0
   m_Name: Cube (1)
-  m_TagString: Enemy
+  m_TagString: NonDropableEnemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38797,7 +38797,7 @@ GameObject:
   - component: {fileID: 1382542038}
   m_Layer: 0
   m_Name: Cube (4)
-  m_TagString: Enemy
+  m_TagString: NonDropableEnemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -52188,7 +52188,7 @@ GameObject:
   - component: {fileID: 1833174301}
   m_Layer: 0
   m_Name: Cube (5)
-  m_TagString: Enemy
+  m_TagString: NonDropableEnemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -58153,7 +58153,7 @@ GameObject:
   - component: {fileID: 2048842418}
   m_Layer: 0
   m_Name: Cube
-  m_TagString: Enemy
+  m_TagString: NonDropableEnemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -58545,7 +58545,7 @@ GameObject:
   - component: {fileID: 2073320041}
   m_Layer: 0
   m_Name: Cube (2)
-  m_TagString: Enemy
+  m_TagString: NonDropableEnemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

@@ -9,6 +9,9 @@ TagManager:
   - Enemy
   - Platform
   - Hole
+  - Dropable
+  - NonDropable
+  - NonDropableEnemy
   layers:
   - Default
   - TransparentFX

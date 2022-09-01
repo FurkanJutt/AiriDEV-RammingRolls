@@ -37,7 +37,8 @@ public class GameManager : MonoBehaviour {
 		PlayerOBj = GameObject.Find ("Player");
 		FinishObj = GameObject.Find ("Finish");
 
-		startDist =Vector3.Distance (PlayerOBj.transform.position,FinishObj.transform.position);
+		if(PlayerOBj)
+			startDist =Vector3.Distance (PlayerOBj.transform.position,FinishObj.transform.position);
 
 	}
 	float dist,startDist;

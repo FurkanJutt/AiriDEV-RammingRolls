@@ -4949,7 +4949,7 @@ GameObject:
   - component: {fileID: 518176715}
   m_Layer: 0
   m_Name: Cylinder (1)
-  m_TagString: Untagged
+  m_TagString: NonDropableEnemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5639,7 +5639,7 @@ GameObject:
   - component: {fileID: 600514658}
   m_Layer: 0
   m_Name: Cube (12)
-  m_TagString: Untagged
+  m_TagString: NonDropable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6143,7 +6143,7 @@ GameObject:
   - component: {fileID: 692437437}
   m_Layer: 0
   m_Name: Cylinder (2)
-  m_TagString: Untagged
+  m_TagString: NonDropableEnemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9219,7 +9219,7 @@ GameObject:
   - component: {fileID: 983265970}
   m_Layer: 0
   m_Name: Cube (1)
-  m_TagString: Untagged
+  m_TagString: NonDropable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10322,7 +10322,7 @@ GameObject:
   - component: {fileID: 1062124489}
   m_Layer: 0
   m_Name: Cube
-  m_TagString: Untagged
+  m_TagString: NonDropable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10551,7 +10551,7 @@ GameObject:
   - component: {fileID: 1084334460}
   m_Layer: 0
   m_Name: Cube (11)
-  m_TagString: Untagged
+  m_TagString: NonDropable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17197,7 +17197,7 @@ GameObject:
   - component: {fileID: 1773789865}
   m_Layer: 0
   m_Name: Cylinder (3)
-  m_TagString: Untagged
+  m_TagString: NonDropableEnemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

@@ -481,7 +481,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1582115233370720, guid: 9314f9f5d8270f34db7b8b0b6dd3a2ab, type: 3}
       propertyPath: m_TagString
-      value: Enemy
+      value: NonDropableEnemy
       objectReference: {fileID: 0}
     - target: {fileID: 4540763786929566, guid: 9314f9f5d8270f34db7b8b0b6dd3a2ab, type: 3}
       propertyPath: m_RootOrder
@@ -705,7 +705,7 @@ GameObject:
   - component: {fileID: 107712098}
   m_Layer: 0
   m_Name: Cube
-  m_TagString: Untagged
+  m_TagString: NonDropable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2955,7 +2955,7 @@ GameObject:
   - component: {fileID: 430708940}
   m_Layer: 0
   m_Name: Cube (1)
-  m_TagString: Untagged
+  m_TagString: NonDropable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7854,7 +7854,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1582115233370720, guid: 9314f9f5d8270f34db7b8b0b6dd3a2ab, type: 3}
       propertyPath: m_TagString
-      value: Enemy
+      value: NonDropableEnemy
       objectReference: {fileID: 0}
     - target: {fileID: 4540763786929566, guid: 9314f9f5d8270f34db7b8b0b6dd3a2ab, type: 3}
       propertyPath: m_RootOrder
@@ -8823,7 +8823,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1582115233370720, guid: 9314f9f5d8270f34db7b8b0b6dd3a2ab, type: 3}
       propertyPath: m_TagString
-      value: Enemy
+      value: NonDropableEnemy
       objectReference: {fileID: 0}
     - target: {fileID: 4540763786929566, guid: 9314f9f5d8270f34db7b8b0b6dd3a2ab, type: 3}
       propertyPath: m_RootOrder
@@ -9717,7 +9717,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1582115233370720, guid: 9314f9f5d8270f34db7b8b0b6dd3a2ab, type: 3}
       propertyPath: m_TagString
-      value: Enemy
+      value: NonDropableEnemy
       objectReference: {fileID: 0}
     - target: {fileID: 4540763786929566, guid: 9314f9f5d8270f34db7b8b0b6dd3a2ab, type: 3}
       propertyPath: m_RootOrder
@@ -11169,7 +11169,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1582115233370720, guid: 9314f9f5d8270f34db7b8b0b6dd3a2ab, type: 3}
       propertyPath: m_TagString
-      value: Enemy
+      value: NonDropableEnemy
       objectReference: {fileID: 0}
     - target: {fileID: 4540763786929566, guid: 9314f9f5d8270f34db7b8b0b6dd3a2ab, type: 3}
       propertyPath: m_RootOrder
@@ -12753,7 +12753,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1582115233370720, guid: 9314f9f5d8270f34db7b8b0b6dd3a2ab, type: 3}
       propertyPath: m_TagString
-      value: Enemy
+      value: NonDropableEnemy
       objectReference: {fileID: 0}
     - target: {fileID: 4540763786929566, guid: 9314f9f5d8270f34db7b8b0b6dd3a2ab, type: 3}
       propertyPath: m_RootOrder
@@ -12857,7 +12857,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1582115233370720, guid: 9314f9f5d8270f34db7b8b0b6dd3a2ab, type: 3}
       propertyPath: m_TagString
-      value: Enemy
+      value: NonDropableEnemy
       objectReference: {fileID: 0}
     - target: {fileID: 4540763786929566, guid: 9314f9f5d8270f34db7b8b0b6dd3a2ab, type: 3}
       propertyPath: m_RootOrder
@@ -13629,7 +13629,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1582115233370720, guid: 9314f9f5d8270f34db7b8b0b6dd3a2ab, type: 3}
       propertyPath: m_TagString
-      value: Enemy
+      value: NonDropableEnemy
       objectReference: {fileID: 0}
     - target: {fileID: 4540763786929566, guid: 9314f9f5d8270f34db7b8b0b6dd3a2ab, type: 3}
       propertyPath: m_RootOrder
@@ -14757,7 +14757,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1582115233370720, guid: 9314f9f5d8270f34db7b8b0b6dd3a2ab, type: 3}
       propertyPath: m_TagString
-      value: Enemy
+      value: NonDropableEnemy
       objectReference: {fileID: 0}
     - target: {fileID: 4540763786929566, guid: 9314f9f5d8270f34db7b8b0b6dd3a2ab, type: 3}
       propertyPath: m_RootOrder
@@ -14979,7 +14979,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1582115233370720, guid: 9314f9f5d8270f34db7b8b0b6dd3a2ab, type: 3}
       propertyPath: m_TagString
-      value: Enemy
+      value: NonDropableEnemy
       objectReference: {fileID: 0}
     - target: {fileID: 4540763786929566, guid: 9314f9f5d8270f34db7b8b0b6dd3a2ab, type: 3}
       propertyPath: m_RootOrder
@@ -16451,7 +16451,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1945584827523212, guid: 65dbe2c528816cb45882a6915bf31e5e, type: 3}
       propertyPath: m_TagString
-      value: Enemy
+      value: NonDropableEnemy
       objectReference: {fileID: 0}
     - target: {fileID: 4740424033185902, guid: 65dbe2c528816cb45882a6915bf31e5e, type: 3}
       propertyPath: m_RootOrder
@@ -17123,7 +17123,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1582115233370720, guid: 9314f9f5d8270f34db7b8b0b6dd3a2ab, type: 3}
       propertyPath: m_TagString
-      value: Enemy
+      value: NonDropableEnemy
       objectReference: {fileID: 0}
     - target: {fileID: 4540763786929566, guid: 9314f9f5d8270f34db7b8b0b6dd3a2ab, type: 3}
       propertyPath: m_RootOrder
@@ -17687,7 +17687,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1582115233370720, guid: 9314f9f5d8270f34db7b8b0b6dd3a2ab, type: 3}
       propertyPath: m_TagString
-      value: Enemy
+      value: NonDropableEnemy
       objectReference: {fileID: 0}
     - target: {fileID: 4540763786929566, guid: 9314f9f5d8270f34db7b8b0b6dd3a2ab, type: 3}
       propertyPath: m_RootOrder

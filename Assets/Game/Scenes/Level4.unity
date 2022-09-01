@@ -1510,7 +1510,7 @@ GameObject:
   - component: {fileID: 111265009}
   m_Layer: 0
   m_Name: Sphere (4)
-  m_TagString: Enemy
+  m_TagString: NonDropableEnemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4626,7 +4626,7 @@ GameObject:
   - component: {fileID: 363285864}
   m_Layer: 0
   m_Name: Sphere
-  m_TagString: Enemy
+  m_TagString: NonDropableEnemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5935,7 +5935,7 @@ GameObject:
   - component: {fileID: 497642659}
   m_Layer: 0
   m_Name: Sphere (1)
-  m_TagString: Enemy
+  m_TagString: NonDropableEnemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17637,7 +17637,7 @@ GameObject:
   - component: {fileID: 1636525718}
   m_Layer: 0
   m_Name: Sphere (5)
-  m_TagString: Enemy
+  m_TagString: NonDropableEnemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

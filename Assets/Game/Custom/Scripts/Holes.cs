@@ -5,6 +5,7 @@ using UnityEngine;
 public class Holes : MonoBehaviour
 {
     [SerializeField] private List<GameObject> maskObj;
+
     private void Start()
     {
         maskObj.Add(GameObject.Find("Platfrom"));
@@ -29,7 +30,11 @@ public class Holes : MonoBehaviour
 
     private void OnTriggerStay(Collider other)
     {
-        other.GetComponent<Collider>().enabled = false;
+        
+        if (other.tag.Contains("NonDropable"))
+            other.GetComponent<Collider>().enabled = true;
+        else
+            other.GetComponent<Collider>().enabled = false;
     }
 
     private void OnTriggerExit(Collider other)

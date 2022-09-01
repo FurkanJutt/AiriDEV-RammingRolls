@@ -47,7 +47,6 @@ public class PlayerController : MonoBehaviour
         if (this.rb.transform.position.z < camera.transform.position.z)
         {
             DestroyPlayer();
-            Time.timeScale = 0;
             GameManager.gm.ShowGameOver();
         }
     }

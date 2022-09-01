@@ -9,12 +9,13 @@ public class MainMenu : MonoBehaviour {
 	public Transform LevelParent;
 	void Start ()
 	{
+		Debug.Log(LevelParent.childCount);
 		MenuPage.SetActive (true);
 		LevelSelection.SetActive (false);
 		PlayerPrefs.SetInt ("Level0", 1);
 		for (int i = 0; i < LevelParent.childCount; i++) 
 		{
-			PlayerPrefs.SetInt ("Level"+i, 1);
+			PlayerPrefs.SetInt ("Level"+i+1, 0);
 			LevelParent.GetChild (i).name = "Level" + (i + 1);
 			LevelParent.GetChild (i).GetChild (0).GetComponent<Text> ().text = "" + (i + 1);
 			if (PlayerPrefs.GetInt ("Level" + i) > 0) 
@@ -24,6 +25,7 @@ public class MainMenu : MonoBehaviour {
 			else 
 			{
 				LevelParent.GetChild (i).GetChild (1).gameObject.SetActive (true);
+				LevelParent.GetChild(i).GetComponent<Button>().interactable = false;
 			}
 		}
 	}
