@@ -31,16 +31,15 @@ public class Laser : MonoBehaviour
         laser.colorGradient = gradient;
     }
 
+    public Color GetLaserColor()
+    {
+        return randomColor;
+    }
+
     // Update is called once per frame
     void Update()
     {
         laser.SetPosition(0, origin.transform.position);
         laser.SetPosition(1, end.transform.position);
-
-        //if (player.GetComponent<Rigidbody>().transform.position.z >= 34)
-        //{
-        //    playerPosPassed = true;
-        //    player.GetComponent<Renderer>().material.color = randomColor;
-        //}
     }
 }

@@ -5163,6 +5163,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1106809180370828, guid: 935f5654ad2b90d4eac33b800aff4a73, type: 3}
+      propertyPath: m_Name
+      value: Camera Parent
+      objectReference: {fileID: 0}
     - target: {fileID: 4319261510176802, guid: 935f5654ad2b90d4eac33b800aff4a73, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -5194,6 +5198,48 @@ PrefabInstance:
     - target: {fileID: 4319261510176802, guid: 935f5654ad2b90d4eac33b800aff4a73, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4319261510176802, guid: 935f5654ad2b90d4eac33b800aff4a73, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4319261510176802, guid: 935f5654ad2b90d4eac33b800aff4a73, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4319261510176802, guid: 935f5654ad2b90d4eac33b800aff4a73, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114591940920946872, guid: 935f5654ad2b90d4eac33b800aff4a73,
+        type: 3}
+      propertyPath: m_color1.b
+      value: 0.99854434
+      objectReference: {fileID: 0}
+    - target: {fileID: 114591940920946872, guid: 935f5654ad2b90d4eac33b800aff4a73,
+        type: 3}
+      propertyPath: m_color1.g
+      value: 0.267939
+      objectReference: {fileID: 0}
+    - target: {fileID: 114591940920946872, guid: 935f5654ad2b90d4eac33b800aff4a73,
+        type: 3}
+      propertyPath: m_color1.r
+      value: 0.29327536
+      objectReference: {fileID: 0}
+    - target: {fileID: 114591940920946872, guid: 935f5654ad2b90d4eac33b800aff4a73,
+        type: 3}
+      propertyPath: m_color2.b
+      value: 0.42312837
+      objectReference: {fileID: 0}
+    - target: {fileID: 114591940920946872, guid: 935f5654ad2b90d4eac33b800aff4a73,
+        type: 3}
+      propertyPath: m_color2.g
+      value: 0.51022065
+      objectReference: {fileID: 0}
+    - target: {fileID: 114591940920946872, guid: 935f5654ad2b90d4eac33b800aff4a73,
+        type: 3}
+      propertyPath: m_color2.r
+      value: 0.123575866
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 935f5654ad2b90d4eac33b800aff4a73, type: 3}
